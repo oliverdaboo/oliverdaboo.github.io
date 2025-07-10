@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "CMSAC Capstone Project\n\n\nThis is my CMSAC Capstone Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my CMSAC EDA Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog/Brazilian_Soccer.html",
     "href": "blog/Brazilian_Soccer.html",
     "title": "What is the Current State of Brazilian Football after their Stellar Club World Cup",
@@ -21,11 +28,11 @@
     "text": "Club World Cup Walk Through\nThe four Brazilian teams in the tournament, Palmeiras, Botafogo, Flamengo, and Fluminense finished the group stage with 6-5-1 record along with some impressive results against the best teams in the world.\n\nPalmeiras drew 0-0 with Porto in a game where Palmeiras produced 2.08 xG, and would certainly of won the match if not for the outstanding performance from Porto’s goalkeeper Claudio Ramos.\nFluminense drew 0-0 with Borussia Dortmund, where just like the Palmerias match, it could have been won by the Brazilian team if not for incredible saves by the opposition goalkeeper.\nBotafogo grinded out an amazing 1-0 win against Champions League winners PSG. Although the PSG starting lineup was missing regular starters like Ousmane Dembele and Nuno Mendes, they limited them to an xG of only 1.09, PSG’s lowest xG for a match since a Champions League game against Bayern Munich in November of last year.\nPerhaps the most incredible results was Flamengo’s 3-1 comeback win against Chelsea, where they also led in xG, possession, and shots.\n\nIn the knockout stages, it was unfortunate that Botafogo were knocked out by fellow Brazilian side Palmeiras in the round of 16. Flamengo’s run also ended by losing 4-2 to Bayern Munich. But Fluminense advanced after blanking Champions League finalists Inter Milan to win 2-0. They defended valiantly led by 40 year old center back Thiago Silva and 44 year old goalkeeper Fabio.\nPalmeiras lost to eventual finalists Chelsea 2-1 in the quarterfinals, but Fluminense amazingly reached the semifinals after beating Al Hilal (who beat Manchester City).\nThe tournament ended for our Brazilian teams in the semifinals as Fluminense lost to Chelsea 2-0, thanks to two incredible goals by a former Fluminense player Joao Pedro."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oliver Daboo",
     "section": "",
-    "text": "CMSAC Capstone Project\n\n\nThis is my CMSAC Capstone Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my CMSAC EDA Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my website!\nI am a Junior on the Soccer team at Colby College majoring in Statistics and minoring in Computer Science\nI have a huge interest in sports, with my favorites being Soccer, Baseball, Formula 1, Hockey, and Tennis"
   },
   {
     "objectID": "projects/EDA/eda.html",
@@ -33,12 +40,5 @@
     "title": "My EDA Project",
     "section": "",
     "text": "This is my EDA Project\nInfo"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oliver Daboo",
-    "section": "",
-    "text": "Welcome to my website!\nI am a Junior on the Soccer team at Colby College majoring in Statistics and minoring in Computer Science\nI have a huge interest in sports, with my favorites being Soccer, Baseball, Formula 1, Hockey, and Tennis"
   }
 ]
