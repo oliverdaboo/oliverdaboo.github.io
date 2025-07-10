@@ -1,0 +1,8 @@
+---
+title: "Full Backs are the most Important Players in a Team"
+description: "Why I believe full back is the most undervalued position in football"
+
+about: 
+  template: marquee
+  image: cover.jpeg
+---
