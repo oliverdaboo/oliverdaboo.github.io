@@ -1,0 +1,15 @@
+---
+title: "CMSAC Capstone Project"
+description: "This is my CMSAC Capstone Project"
+date: "July 25, 2025"
+resources: "."
+about: 
+  template: marquee
+  image: cover.jpg
+  links: 
+    - icon: file-code
+      text: "Report"
+      href: https://american-soccer-analysis.github.io/itscalledsoccer-r/reference/AmericanSoccerAnalysis.html#method-get-team-salaries-
+      target: blank
+---
+

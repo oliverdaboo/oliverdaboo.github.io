@@ -1,0 +1,45 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Oliver Daboo"
+  navbar:
+    background: "#DA020E"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Blog.qmd
+        text: Blog
+      - href: projects.qmd
+        text: Projects
+      - text: Resume
+        href: assets/Resume_Oliver Daboo.pdf
+        target: blank
+      
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ojdabo27/
+        target: blank
+      - icon: github
+        href: https://github.com/oliverdaboo
+        target: blank 
+      - icon: file-pdf
+        menu: 
+        - text: Resume
+          href: assets/Resume_Oliver Daboo.pdf
+          target: blank
+      
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    
+execute: 
+  freeze: auto
+
+
+
