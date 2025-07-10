@@ -1,6 +1,6 @@
 ---
 title: "What is the Current State of Brazilian Football after their Stellar Club World Cup"
-description: "Explaining why european teams shouldn't just be buying the young stars from Brazil"
+description: "Why european teams shouldn't just be buying the young stars from Brazil"
 
 about: 
   template: marquee
