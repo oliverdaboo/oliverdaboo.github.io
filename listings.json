@@ -5,5 +5,12 @@
       "/projects/Capstone/capstone.html",
       "/projects/EDA/eda.html"
     ]
+  },
+  {
+    "listing": "/Blog.html",
+    "items": [
+      "/blog/Brazilian_Soccer.html",
+      "/blog/Full_Backs.html"
+    ]
   }
 ]
