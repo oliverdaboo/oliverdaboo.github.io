@@ -1,1 +1,30 @@
 /* css styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.navbar-nav .nav-link:hover {
+  text-decoration: underline;
+  color: #FFC72C !important;
+}
+
+a {
+  font-weight: 500;
+}
+
+.card {
+  border-left: 4px solid #C8102E;
+  padding-left: 1rem;
+}
+
+footer {
+  border-top: 1px solid #eaeaea;
+  padding-top: 1rem;
+  font-size: 0.9em;
+  color: #666;
+}
+
