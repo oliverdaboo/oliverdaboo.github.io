@@ -6,6 +6,7 @@ website:
   title: "Oliver Daboo"
   navbar:
     background: "#DA020E"
+    logo: assets/logo.png
     left:
       - href: index.qmd
         text: Home
@@ -16,7 +17,6 @@ website:
       - text: Resume
         href: assets/Resume_Oliver Daboo.pdf
         target: blank
-      
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ojdabo27/
@@ -24,17 +24,12 @@ website:
       - icon: github
         href: https://github.com/oliverdaboo
         target: blank 
-      - icon: file-pdf
-        menu: 
-        - text: Resume
-          href: assets/Resume_Oliver Daboo.pdf
-          target: blank
+  page-footer: "© 2025 Oliver Daboo · Built with [Quarto](https://quarto.org)"
       
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: 
+      light: custom-light.scss
     css: styles.css
     toc: true
     

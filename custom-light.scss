@@ -1,0 +1,63 @@
+/*-- scss:defaults --*/
+
+// Color variables
+$body-bg: #ffffff;
+$body-color: #1a1a1a;
+$link-color: #DA020E;       // Red
+$link-hover-color: #FFC72C; // Yellow
+$navbar-bg: #DA020E;
+$navbar-fg: #1a1a1a;
+$navbar-hover-color: #FFC72C;
+$font-family-sans-serif: 'Inter', sans-serif;
+$callout-note-bg: #FFC72C;
+$callout-border-left: #FFC72C;
+
+/*-- scss:rules --*/
+
+.navbar {
+  background-color: #DA020E !important; // Your red background
+  border-bottom: 1px solid #DA020E;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #FFC72C !important; /* Yellow nav link text */
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  text-decoration: underline;
+  color: #ffffff !important; /* White on hover */
+}
+
+.navbar-brand,
+.navbar .navbar-brand,
+.navbar .navbar-text {
+  color: #FFC72C !important; /* Brand/logo text yellow */
+}
+
+.navbar .bi, /* Bootstrap Icons */
+.navbar i,    /* Any font-awesome or icon fonts */
+.navbar svg { 
+  fill: #FFC72C !important; /* Icon fill (for SVGs) */
+  color: #FFC72C !important; /* Fallback for font-based icons */
+}
+
+.navbar .nav-item.active .nav-link {
+  color: #ffffff !important; /* Active tab white */
+  font-weight: bold;
+}
+
+.card {
+  border-left: 4px solid #DA020E;
+  padding-left: 1rem;
+}
+
+footer {
+  border-top: 1px solid #eaeaea;
+  padding-top: 1rem;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.page-footer {
+  text-align: center;
+}
