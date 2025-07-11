@@ -4,10 +4,12 @@ project:
 
 website:
   title: "Oliver Daboo"
+  site-url: "https://oliverdaboo.github.io"
+  favicon: assets/logo.png
   navbar:
     background: "#DA020E"
     logo: assets/logo.png
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: Blog.qmd
@@ -17,7 +19,6 @@ website:
       - text: Resume
         href: assets/Resume_Oliver Daboo.pdf
         target: blank
-    right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ojdabo27/
         target: blank
