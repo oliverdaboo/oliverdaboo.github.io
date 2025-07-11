@@ -5,7 +5,6 @@ project:
 website:
   title: "Oliver Daboo"
   site-url: "https://oliverdaboo.github.io"
-  favicon: assets/logo.png
   navbar:
     background: "#DA020E"
     logo: assets/logo.png
