@@ -1,16 +1,16 @@
 [
   {
+    "listing": "/Blog.html",
+    "items": [
+      "/blog/Full Backs/Full_Backs.html",
+      "/blog/Brazil/Brazilian_Soccer.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/Capstone/capstone.html",
       "/projects/EDA/eda.html"
-    ]
-  },
-  {
-    "listing": "/Blog.html",
-    "items": [
-      "/blog/Brazil/Brazilian_Soccer.html",
-      "/blog/Full Backs/Full_Backs.html"
     ]
   }
 ]
