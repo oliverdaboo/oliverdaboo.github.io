@@ -28,3 +28,8 @@ footer {
   color: #666;
 }
 
+.quarto-about-jolla .about-section {
+  margin-top: 0.5rem !important; /* You can adjust this value */
+  padding-top: 0 !important;
+}
+
