@@ -1,8 +1,7 @@
 ---
 title: "Projects"
-listing: 
-  contents: projects
-  type: grid
-  sort:
-    - "date desc"
+resources: assets
 ---
+
+| **Oliver Daboo**, Otis Birnbaum. "Maximizing Roster Efficiency in the MLS. " *Carnegie Mellon Sports Analytics Camp*, July 2025. <a href="https://www.stat.cmu.edu/cmsac/sure/2025/showcase/soccer_roster/report.html" target="_blank"> [Report]</a> <a href="/assets/capstone_slides.pdf" target="_blank">[Slides]</a> <a href="https://www.stat.cmu.edu/cmsac/sure/2025/showcase/soccer_roster/poster.pdf" target="_blank"> [Poster]</a>
+| **(To be presented to the Charlotte FC front office and at the Carnegie Mellon Sports Analytics Conference)**
