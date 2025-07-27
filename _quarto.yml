@@ -9,7 +9,7 @@ website:
     background: "#DA020E"
     logo: assets/logo.png
     right:
-      - href: index.qmd
+      - href: about.qmd
         text: Home
       - href: Blog.qmd
         text: Blog
