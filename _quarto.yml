@@ -16,7 +16,7 @@ website:
       - href: projects.qmd
         text: Projects
       - text: Resume
-        href: assets/Resume_Oliver Daboo.pdf
+        href: assets/Resume_OliverDaboo.pdf
         target: blank
       - icon: linkedin
         href: https://www.linkedin.com/in/ojdabo27/
