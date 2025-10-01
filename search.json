@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "Blog",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Full Backs are the most Important Players in a Team\n\n\nWhy I believe full back is the most undervalued position in football\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the Current State of Brazilian Football after their Stellar Club World Cup\n\n\nWhy european teams shouldn’t just be buying the young stars from Brazil\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Oliver Daboo, Otis Birnbaum. “Maximizing Roster Efficiency in the MLS.” Carnegie Mellon Sports Analytics Camp, July 2025.  [Report] [Slides]  [Poster]\n(To be presented to the Charlotte FC front office and at the Carnegie Mellon Sports Analytics Conference)"
   },
   {
     "objectID": "blog/Brazil/Brazilian_Soccer.html",
@@ -25,7 +25,7 @@
     "href": "blog/Brazil/Brazilian_Soccer.html#club-world-cup-walk-through",
     "title": "What is the Current State of Brazilian Football after their Stellar Club World Cup",
     "section": "Club World Cup Walk Through",
-    "text": "Club World Cup Walk Through\nThe four Brazilian teams in the tournament, Palmeiras, Botafogo, Flamengo, and Fluminense finished the group stage with 6-5-1 record along with some impressive results against the best teams in the world.\n\nPalmeiras drew 0-0 with Porto in a game where Palmeiras produced 2.08 xG, and would certainly of won the match if not for the outstanding performance from Porto’s goalkeeper Claudio Ramos.\nFluminense drew 0-0 with Borussia Dortmund, where just like the Palmeiras match, it could have been won by the Brazilian team if not for incredible saves by the opposition goalkeeper.\nBotafogo grinded out an amazing 1-0 win against Champions League winners PSG. Although the PSG starting lineup was missing regular starters like Ousmane Dembele and Nuno Mendes, they limited them to an xG of only 1.09, PSG’s lowest xG for a match since a Champions League game against Bayern Munich in November of last year.\nPerhaps the most incredible results was Flamengo’s 3-1 comeback win against Chelsea, where they also led in xG, possession, and shots.\n\nIn the knockout stages, it was unfortunate that Botafogo were knocked out by fellow Brazilian side Palmeiras in the round of 16. Flamengo’s run also ended by losing 4-2 to Bayern Munich. But Fluminense advanced after blanking Champions League finalists Inter Milan to win 2-0. They defended valiantly led by 40 year old center back Thiago Silva and 44 year old goalkeeper Fabio.\nPalmeiras lost to eventual finalists Chelsea 2-1 in the quarterfinals, but Fluminense amazingly reached the semifinals after beating Al Hilal (who beat Manchester City).\nThe tournament ended for our Brazilian teams in the semifinals as Fluminense lost to Chelsea 2-0, thanks to two incredible goals by a former Fluminense player Joao Pedro."
+    "text": "Club World Cup Walk Through\nThe four Brazilian teams in the tournament, Palmeiras, Botafogo, Flamengo, and Fluminense finished the group stage with 6-5-1 record along with some impressive results against the best teams in the world.\n\nPalmeiras drew 0-0 with Porto in a game where Palmeiras produced 2.08 xG, and would certainly of won the match if not for the outstanding performance from Porto’s goalkeeper Claudio Ramos.\nFluminense drew 0-0 with Borussia Dortmund, where just like the Palmeiras match, it could have been won by the Brazilian team if not for incredible saves by the opposition goalkeeper.\nBotafogo grinded out an amazing 1-0 win against Champions League winners PSG. Although the PSG starting lineup was missing regular starters like Ousmane Dembele and Nuno Mendes, they limited them to an xG of only 1.09, PSG’s lowest xG for a match since a Champions League game against Bayern Munich in November of last year.\nPerhaps the most incredible results was Flamengo’s 3-1 comeback win against Chelsea, where they also led in xG, possession, and shots.\n\nIn the knockout stages, it was unfortunate that Botafogo were knocked out by fellow Brazilian side Palmeiras in the round of 16. Flamengo’s run also ended by losing 4-2 to Bayern Munich. But Fluminense advanced after blanking Champions League finalists Inter Milan to win 2-0. They defended valiantly led by 40 year old center back Thiago Silva and 44 year old goalkeeper Fabio.\nPalmeiras lost to eventual finalists Chelsea 2-1 in the quarterfinals, but Fluminense amazingly reached the semifinals after beating Al Hilal (who beat Manchester City).\nThe tournament ended for our Brazilian teams in the semifinals as Fluminense lost to Chelsea 2-0, thanks to two incredible goals by a former Fluminense player Joao Pedro.\nDespite none of the Brazilian teams winning Club World Cup, it was still an incredible tournament for them"
   },
   {
     "objectID": "about.html",
@@ -33,6 +33,13 @@
     "title": "Oliver Daboo",
     "section": "",
     "text": "Welcome to 412 Daboo! I am a Junior on the Soccer team at Colby College majoring in Statistics and minoring in Computer Science. I have a huge interest in sports, with my favorites being Soccer, Baseball, Formula 1, Hockey, and Tennis. I am also extremely passionate about the sports teams in my hometown of Pittsburgh and my favorite soccer team Manchester United."
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Full Backs are the most Important Players in a Team\n\n\nWhy I believe full back is the most undervalued position in football\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is the Current State of Brazilian Football after their Stellar Club World Cup\n\n\nWhy european teams shouldn’t just be buying the young stars from Brazil\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Brazilian_Soccer.html",
@@ -54,12 +61,5 @@
     "title": "What is the Current State of Brazilian Football after their Stellar Club World Cup",
     "section": "Club World Cup Walk Through",
     "text": "Club World Cup Walk Through\nThe four Brazilian teams in the tournament, Palmeiras, Botafogo, Flamengo, and Fluminense finished the group stage with 6-5-1 record along with some impressive results against the best teams in the world.\n\nPalmeiras drew 0-0 with Porto in a game where Palmeiras produced 2.08 xG, and would certainly of won the match if not for the outstanding performance from Porto’s goalkeeper Claudio Ramos.\nFluminense drew 0-0 with Borussia Dortmund, where just like the Palmerias match, it could have been won by the Brazilian team if not for incredible saves by the opposition goalkeeper.\nBotafogo grinded out an amazing 1-0 win against Champions League winners PSG. Although the PSG starting lineup was missing regular starters like Ousmane Dembele and Nuno Mendes, they limited them to an xG of only 1.09, PSG’s lowest xG for a match since a Champions League game against Bayern Munich in November of last year.\nPerhaps the most incredible results was Flamengo’s 3-1 comeback win against Chelsea, where they also led in xG, possession, and shots.\n\nIn the knockout stages, it was unfortunate that Botafogo were knocked out by fellow Brazilian side Palmeiras in the round of 16. Flamengo’s run also ended by losing 4-2 to Bayern Munich. But Fluminense advanced after blanking Champions League finalists Inter Milan to win 2-0. They defended valiantly led by 40 year old center back Thiago Silva and 44 year old goalkeeper Fabio.\nPalmeiras lost to eventual finalists Chelsea 2-1 in the quarterfinals, but Fluminense amazingly reached the semifinals after beating Al Hilal (who beat Manchester City).\nThe tournament ended for our Brazilian teams in the semifinals as Fluminense lost to Chelsea 2-0, thanks to two incredible goals by a former Fluminense player Joao Pedro."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Oliver Daboo, Otis Birnbaum. “Maximizing Roster Efficiency in the MLS.” Carnegie Mellon Sports Analytics Camp, July 2025.  [Report] [Slides]  [Poster]\n(To be presented to the Charlotte FC front office and at the Carnegie Mellon Sports Analytics Conference)"
   }
 ]
