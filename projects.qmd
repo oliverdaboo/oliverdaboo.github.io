@@ -6,3 +6,8 @@ resources: assets
 | **Oliver Daboo**, Otis Birnbaum. "Maximizing Roster Efficiency in the MLS. " *Carnegie Mellon Sports Analytics Camp*, July 2025. <a href="https://www.stat.cmu.edu/cmsac/sure/2025/showcase/soccer_roster/report.html" target="_blank"> \[Report\]</a> <a href="/assets/capstone_slides.pdf" target="_blank">\[Slides\]</a> <a href="https://www.stat.cmu.edu/cmsac/sure/2025/showcase/soccer_roster/poster.pdf" target="_blank"> \[Poster\]</a>
 | **Presented at the Carnegie Mellon Sports Analytics Conference**
 | **Cited by Trym Sorum in a SkillCorner news post:** `<a`{=html} `href="https://skillcorner.com/articles/contextual-scouting-how-strategy-can-beat-spending" target="_blank">`{=html} \[Article\] </a>
+
+------------------------------------------------------------------------
+
+| **Oliver Daboo.** "2022 World Cup Match Dashboard Project" *Mckay Johns: The Complete Football Analytics in Python Course*, December 2025. <a href="/assets/Argentina_vs_France_3869685.png" target="_blank">\[2022 World Cup Final Dashboard\]</a> <a href="https://github.com/oliverdaboo/mckayjohns_MatchDashboard_Project" target="_blank">\[Github Repository\]</a>
+| **Description:** Created a function to create a match dashboard for every match in the 2022 World Cup. Added a penalty shootout summary, time of possession to the summary statistics, and cards and substitutions to the xG flow chart.
